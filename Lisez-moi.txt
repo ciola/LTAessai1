@@ -1,1 +1,10 @@
 Un premier text afin de syncroniser avec la commande git push
+
+Étape 1)
+git add .
+
+Étape 2)
+git commit -m "Ajout de fichier lisez-moi"
+
+Étape 3)
+git push --set-upstream 
